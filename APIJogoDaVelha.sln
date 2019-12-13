@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIJogoDaVelha", "APIJogoDaVelha.csproj", "{8BBDB7D3-FFEE-4979-BDF7-2D7D03BB47B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servico", "..\Servico\Servico.csproj", "{AF8F6DB2-197D-4098-8636-F81AAD065EE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dados", "..\Dados\Dados.csproj", "{325710C6-A034-459E-956A-089CFB3729AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BBDB7D3-FFEE-4979-BDF7-2D7D03BB47B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BBDB7D3-FFEE-4979-BDF7-2D7D03BB47B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BBDB7D3-FFEE-4979-BDF7-2D7D03BB47B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BBDB7D3-FFEE-4979-BDF7-2D7D03BB47B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF8F6DB2-197D-4098-8636-F81AAD065EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8F6DB2-197D-4098-8636-F81AAD065EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8F6DB2-197D-4098-8636-F81AAD065EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8F6DB2-197D-4098-8636-F81AAD065EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{325710C6-A034-459E-956A-089CFB3729AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325710C6-A034-459E-956A-089CFB3729AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325710C6-A034-459E-956A-089CFB3729AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325710C6-A034-459E-956A-089CFB3729AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8578A83D-8709-4F12-A024-95A26CDB9BA5}
+	EndGlobalSection
+EndGlobal
